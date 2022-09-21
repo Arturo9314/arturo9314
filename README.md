@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arturo</h1>
-<h3 align="center">Mathematician from Mexico City, I am captivated by programming and am wishful to learn more about Full-stack Development, AI and Cybersecurity.</h3>
+<h3 align="center">Mathematician from Mexico City, I am captivated by programming and am wishful to learn more about Full-Stack Development, AI and Cybersecurity.</h3>
 
-- 🌱 I’m currently learning **full-stack development on freeCodeCamp, Open Bootcamp, Frontend Mentor. And am practising on Codewars and Hackerank.**
+- 🌱 I’m currently learning **Full-Stack Development on freeCodeCamp, Open Bootcamp, Frontend Mentor. And am practising on Codewars and Hackerank.**
 
 - 📫 How to reach me **arturo140493@gmail.com**
 
-- ⚡ Fun fact **Special and General Relativity Theory are essential in GPS systems performance.**
+- ⚡ Fun fact: **Special and General Relativity Theory are essential in GPS systems performance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
