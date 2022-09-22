@@ -25,3 +25,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturo9314&layout=compact)](https://github.com/Arturo9314)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=01-Product-Card)](https://github.com/Arturo9314/01-Product-Card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=02-Intro-component-with-sign-up-form)](https://github.com/Arturo9314/02-Intro-component-with-sign-up-form)
