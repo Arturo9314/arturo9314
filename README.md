@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arturo</h1>
-<h3 align="center">Mathematician from Mexico City, I am captivated by programming and am wishful to learn more about Full-Stack Development, AI and Blockchain.</h3>
+<h3 align="center">Mathematician from Mexico City, I am captivated by programming and am wishful to learn more about Full-Stack Development, Cybersecurity and Blockchain Technology.</h3>
 
 - 🌱 I’m currently learning **Full-Stack Development on freeCodeCamp, Open Bootcamp, Frontend Mentor. And am practising on Codewars and Hackerank.**
 
