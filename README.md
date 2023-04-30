@@ -42,6 +42,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=09-FM-Age-Calculator)](https://github.com/Arturo9314/09-FM-Age-Calculator)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=08-FM-Advice-Generator)](https://github.com/Arturo9314/08-FM-Advice-Generator)
+
 <h3 aling="left"> HTML & CSS Frontend Mentor Challenges: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=07-FM-Easybank-Page)](https://github.com/Arturo9314/07-FM-Easybank-Page)
