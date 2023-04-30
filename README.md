@@ -25,17 +25,25 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturo9314&layout=compact)](https://github.com/Arturo9314)
 
 <h3 aling="left"> React FreeCodeCamp Projects: </h3>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=Calculator-FCC-04)](https://github.com/Arturo9314/Calculator-FCC-04)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=PomodoroClock-FCC-05)](https://github.com/Arturo9314/PomodoroClock-FCC-05)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=Drum-Machine-FCC-03)](https://github.com/Arturo9314/Drum-Machine-FCC-03)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=Arturo9314-Markdown-Previewer-FCC-02)](https://github.com/Arturo9314/Arturo9314-Markdown-Previewer-FCC-02)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=Random-Quote-Machine-FCC)](https://github.com/Arturo9314/Random-Quote-Machine-FCC)
 
 <h3 aling="left"> React Frontend Mentor Challenges: </h3>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=10-FM-Calculator)](https://github.com/Arturo9314/10-FM-Calculator)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=09-FM-Age-Calculator)](https://github.com/Arturo9314/09-FM-Age-Calculator)
 
 <h3 aling="left"> HTML & CSS Frontend Mentor Challenges: </h3>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=07-FM-Easybank-Page)](https://github.com/Arturo9314/07-FM-Easybank-Page)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=05-FM-Sunny-Side-Page)](https://github.com/Arturo9314/05-FM-Sunny-Side-Page)
