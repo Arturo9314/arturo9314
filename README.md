@@ -38,6 +38,14 @@
 
 <h3 aling="left"> Data Visualization FreeCodeCamp Projects: </h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=10-FCC-DV-Treemap)](https://github.com/Arturo9314/10-FCC-DV-Treemap)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=09-FCC-DV-Choropleth)](https://github.com/Arturo9314/09-FCC-DV-Choropleth)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=08-FCC-DV-Heat-Map)](https://github.com/Arturo9314/08-FCC-DV-Heat-Map)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=07-FCC-DV-Scatterplot)](https://github.com/Arturo9314/07-FCC-DV-Scatterplot)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=06-FCC-VD-Bar-Chart)](https://github.com/Arturo9314/06-FCC-VD-Bar-Chart)
 
 <h3 aling="left"> React Frontend Mentor Challenges: </h3>
@@ -64,10 +72,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=05-FM-Sunny-Side-Page)](https://github.com/Arturo9314/05-FM-Sunny-Side-Page)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=04-FM-Testimonial-Grid-Section)](https://github.com/Arturo9314/04-FM-Testimonial-Grid-Section)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=03-FM-NFT-Card-Component-Main)](https://github.com/Arturo9314/03-FM-NFT-Card-Component-Main)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=02-FM-Intro-component-with-sign-up-form)](https://github.com/Arturo9314/02-FM-Intro-component-with-sign-up-form)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=01-Product-Card)](https://github.com/Arturo9314/01-Product-Card)
