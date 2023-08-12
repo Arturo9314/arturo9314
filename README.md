@@ -26,6 +26,14 @@
 
 <h3 aling="left"> React FreeCodeCamp Projects: </h3>
 
+| Columna 1 | Columna 2 | Columna 3 | Columna 4 |
+|-----------|-----------|-----------|-----------|
+| Fila 1    | Fila 1    | Fila 1    | Fila 1    |
+| Fila 2    | Fila 2    | Fila 2    | Fila 2    |
+| Fila 3    | Fila 3    | Fila 3    | Fila 3    |
+| Fila 4    | Fila 4    | Fila 4    | Fila 4    |
+| Fila 5    | Fila 5    | Fila 5    | Fila 5    |
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=PomodoroClock-FCC-05)](https://github.com/Arturo9314/PomodoroClock-FCC-05)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=Calculator-FCC-04)](https://github.com/Arturo9314/Calculator-FCC-04)
