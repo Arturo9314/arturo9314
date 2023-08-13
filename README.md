@@ -35,6 +35,7 @@
 | [Random Quote Machine](https://arturo9314.github.io/Random-Quote-Machine-FCC/)   | [Repository](https://github.com/Arturo9314/Random-Quote-Machine-FCC)    | The Random Quote Generator app offers users an inspiring and thought-provoking experience by connecting to a quotes API. With a simple click of a button, users can fetch a randomly selected quote, displayed prominently on the app's interface. The app's integration with the API ensures that each time users engage with it, they are greeted with a new and insightful quote. Whether seeking motivation, reflection, or simply a moment of wisdom, the Random Quote Generator app serves as a convenient and enriching tool, providing users with a fresh perspective every time they use it. | 
 
 <h3 aling="left"> Data Visualization FreeCodeCamp Projects: </h3>
+
 | Website | Repository | Description |
 |-----------|-----------|-----------|
 | [Video Game Sales Treemap](https://arturo9314.github.io/10-FCC-DV-Treemap/) | [Repository](https://github.com/Arturo9314/10-FCC-DV-Treemap) | Explore the world of gaming with the Video Game Sales Treemap. This application visualizes the Top 100 Most Sold Video Games, organized by platform, in a concise and captivating manner. With interactive color-coded segments, users can quickly grasp the distribution of game sales across different gaming platforms. This treemap provides a user-friendly snapshot of the gaming industry's top hits, making it an engaging resource for gamers and enthusiasts seeking a compact overview of video game sales trends. |
