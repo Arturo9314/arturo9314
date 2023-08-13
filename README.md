@@ -46,28 +46,12 @@
 
 <h3 aling="left"> React Frontend Mentor Challenges: </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=13-FM-Rock-Paper-Scissors
-)](https://github.com/Arturo9314/13-FM-Rock-Paper-Scissors
-)
+| Website | Repository | Description |
+|-----------|-----------|-----------|
+| [Rock-Paper-Scissors Game](https://arturo9314.github.io/13-FM-Rock-Paper-Scissors/) | [Repository](https://github.com/Arturo9314/13-FM-Rock-Paper-Scissors) |  |
+| [Space Tourism Page](https://arturo9314.github.io/12-FM-Space-Tourism/) | [Repository](https://github.com/Arturo9314/12-FM-Space-Tourism) |  |
+| [Countries info](https://arturo9314.github.io/11-FM-Rest-Countries-API/) | [Repository](https://github.com/Arturo9314/11-FM-Rest-Countries-API) |  |
+| [Calculator](https://arturo9314.github.io/10-FM-Calculator/) | [Repository](https://github.com/Arturo9314/10-FM-Calculator) |  |
+| [Age Calculator](https://arturo9314.github.io/09-FM-Age-Calculator/) | [Repository](https://github.com/Arturo9314/09-FM-Age-Calculator) |  |
+| [Advice Generator](https://arturo9314.github.io/08-FM-Advice-Generator/) | [Repository](https://github.com/Arturo9314/08-FM-Advice-Generator) |  |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=12-FM-Space-Tourism
-)](https://github.com/Arturo9314/12-FM-Space-Tourism
-)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=11-FM-Rest-Countries-API)](https://github.com/Arturo9314/11-FM-Rest-Countries-API)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=10-FM-Calculator)](https://github.com/Arturo9314/10-FM-Calculator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=09-FM-Age-Calculator)](https://github.com/Arturo9314/09-FM-Age-Calculator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=08-FM-Advice-Generator)](https://github.com/Arturo9314/08-FM-Advice-Generator)
-
-<h3 aling="left"> HTML & CSS Frontend Mentor Challenges: </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=07-FM-Easybank-Page)](https://github.com/Arturo9314/07-FM-Easybank-Page)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=05-FM-Sunny-Side-Page)](https://github.com/Arturo9314/05-FM-Sunny-Side-Page)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=03-FM-NFT-Card-Component-Main)](https://github.com/Arturo9314/03-FM-NFT-Card-Component-Main)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arturo9314&repo=02-FM-Intro-component-with-sign-up-form)](https://github.com/Arturo9314/02-FM-Intro-component-with-sign-up-form)
